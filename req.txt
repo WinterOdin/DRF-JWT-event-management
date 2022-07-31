@@ -1,0 +1,17 @@
+asgiref==3.5.2
+autopep8==1.5.4
+coverage==6.4.2
+Django==3.2.14
+django-cors-headers==3.5.0
+django-filter==22.1
+djangorestframework==3.11.1
+djangorestframework-simplejwt==4.4.0
+pycodestyle==2.8.0
+PyJWT==1.7.1
+pytz==2020.1
+sqlparse==0.3.1
+toml==0.10.2
+typing_extensions==4.3.0
+pyyaml
+uritemplate
+coreapi
